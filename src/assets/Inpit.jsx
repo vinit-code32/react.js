@@ -28,6 +28,7 @@ const Inpit = () => {
                 <li className='cursor-pointer text-'>home</li>
           <li className=' peer text-amber-50 cursor-pointer active:text-amber-200'>home</li>
           <div>
+          
             
             <button type="button" className='bg-pink-400 py-2 px-3.5 rounded-tr-2xl hover:translate-x-0.5 duration-700 hover:translate-y-6 '>submit</button>
           </div>
